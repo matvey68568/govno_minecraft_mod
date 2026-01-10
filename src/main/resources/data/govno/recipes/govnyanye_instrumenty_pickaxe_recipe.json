@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "govno:govno"
+    },
+    "1": {
+      "item": "govno:govno"
+    },
+    "2": {
+      "item": "govno:govno"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "govno:govnyanye_instrumenty_pickaxe",
+    "count": 1
+  }
+}

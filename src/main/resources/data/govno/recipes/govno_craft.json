@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "cookingtime": 20,
+  "ingredient": {
+    "item": "minecraft:dirt"
+  },
+  "result": {
+    "item": "govno:govno"
+  }
+}
