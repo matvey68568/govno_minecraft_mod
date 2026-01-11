@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "govno_helmet",
+    "enableBody": true,
+    "textureBody": "govno_nagrudnik",
+    "enableLeggings": true,
+    "textureLeggings": "govno_shtany",
+    "enableBoots": true,
+    "textureBoots": "govno_botinki",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "govno_bronya",
+    "helmetName": "Говняный Шлем",
+    "bodyName": "Говняный Нагрудник",
+    "leggingsName": "Говняные Поножи",
+    "bootsName": "Говняные Ботинки",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 1,
+    "damageValueHelmet": 2,
+    "damageValueBody": 2,
+    "damageValueLeggings": 2,
+    "damageValueBoots": 2,
+    "enchantability": 0,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "CUSTOM:ponos"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Govno"
+      }
+    ]
+  }
+}

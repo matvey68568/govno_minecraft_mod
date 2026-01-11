@@ -1,0 +1,12 @@
+{
+  "ponos": {
+    "category": "neutral",
+    "subtitle": "subtitles.ponos",
+    "sounds": [
+      {
+        "name": "govno:ponosiki",
+        "stream": false
+      }
+    ]
+  }
+}

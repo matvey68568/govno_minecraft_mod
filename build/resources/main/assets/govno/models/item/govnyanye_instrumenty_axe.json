@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "govno:items/govnyanyeinstrumenty_axe"
+    "layer0": "govno:items/govno_axe"
   }
 }

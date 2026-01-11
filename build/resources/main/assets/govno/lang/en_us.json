@@ -1,7 +1,11 @@
 {
-  "item.govno.govnyanye_instrumenty_shovel": "GovnyanyeInstrumenty Shovel",
-  "item.govno.govno": "Govno",
-  "item.govno.govnyanye_instrumenty_axe": "GovnyanyeInstrumenty Axe",
+  "item.govno.govno": "Shit",
+  "item.govno.govnyanye_instrumenty_axe": "Shit Axe",
+  "item.govno.govnobronya_leggings": "Говняные Поножи",
+  "subtitles.ponos": "звуки жесткого поноса",
+  "item.govno.govnobronya_chestplate": "Говняный Нагрудник",
   "item.govno.govnyanye_instrumenty_pickaxe": "Говняная Кирка",
-  "item.govno.govnyanye_instrumenty_sword": "Говняный Меч"
+  "item.govno.govnyanye_instrumenty_sword": "Shit Sword",
+  "item.govno.govnobronya_boots": "Говняные Ботинки",
+  "item.govno.govnobronya_helmet": "Говняный Шлем"
 }

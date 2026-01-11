@@ -1,0 +1,64 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 279,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "выдать говно",
+          "onClick": {
+            "name": "Govnodebugvydat"
+          },
+          "width": 181,
+          "height": 20,
+          "name": "выдать говно",
+          "x": 123,
+          "y": 47
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "выдать броню и инструменты",
+          "onClick": {
+            "name": "Govnodebugvydatinstrumenty"
+          },
+          "width": 160,
+          "height": 20,
+          "name": "выдать броню и инструменты",
+          "x": 123,
+          "y": 71
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "выдать верстак и наковальню",
+          "onClick": {
+            "name": "Govnodebugvydatnakovalny"
+          },
+          "width": 166,
+          "height": 20,
+          "name": "выдать верстак и наковальню",
+          "x": 123,
+          "y": 98
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

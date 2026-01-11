@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "govno:govno"
+    },
+    "2": {
+      "item": "govno:govno"
+    },
+    "3": {
+      "item": "govno:govno"
+    },
+    "4": {
+      "item": "govno:govno"
+    },
+    "5": {
+      "item": "govno:govno"
+    },
+    "6": {
+      "item": "govno:govno"
+    },
+    "7": {
+      "item": "govno:govno"
+    },
+    "8": {
+      "item": "govno:govno"
+    }
+  },
+  "result": {
+    "item": "govno:govnobronya_chestplate",
+    "count": 1
+  }
+}
